@@ -15,11 +15,10 @@ DOI can then go into the paper's Data Availability statement.
    git add .
    git commit -m "BRGC v1.0.0: code and training-free analysis for the relation-prediction study"
    git branch -M main
-   git remote add origin https://github.com/USERNAME/BRGC.git
+   git remote add origin https://github.com/furqan-nr/BRGC.git
    git push -u origin main
    ```
-4. In `README.md` and `CITATION.cff`, replace `USERNAME` with your GitHub
-   username (search-and-replace the `github.com/USERNAME/BRGC` links).
+4. The `github.com/furqan-nr/BRGC` links in `CITATION.cff` are already set.
 
 ## 2. Connect Zenodo to GitHub
 1. Go to https://zenodo.org and sign in **with your GitHub account**.
