@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite both the software and the associated paper."
+title: "BRGC: Bounded Role-Aware Graph Context for relation prediction"
+abstract: >-
+  Code and training-free analysis scripts for the study "How Much Graph Context
+  Does Relation Prediction Need? A Controlled Study of Endpoint Statistics and
+  Bounded Local Context". Includes the frozen model implementation used for every
+  reported run and the parameter-free endpoint baselines, entropy diagnostics, and
+  bootstrap confidence-interval scripts.
+type: software
+version: 1.0.0
+date-released: 2026-07-18
+license: MIT
+repository-code: "https://github.com/USERNAME/BRGC"
+keywords:
+  - knowledge graph completion
+  - relation prediction
+  - endpoint statistics
+  - graph context
+  - DistilBERT
+authors:
+  - given-names: Furqan
+    family-names: Nasir
+    orcid: "https://orcid.org/0000-0002-5259-3448"
+    affiliation: "National University of Computer & Emerging Sciences (NUCES-FAST), Islamabad, Pakistan"
+  - given-names: Muhammad Atif
+    family-names: Saeed
+    orcid: "https://orcid.org/0000-0001-6358-3360"
+    affiliation: "National University of Computer & Emerging Sciences (NUCES-FAST), Islamabad, Pakistan"
+  - given-names: Saifullah
+    family-names: Jan
+    orcid: "https://orcid.org/0000-0001-9890-6991"
+    affiliation: "City University of Science and Information Technology, Peshawar, Pakistan"
+  - given-names: Haji
+    family-names: Gul
+    orcid: "https://orcid.org/0000-0002-2227-6564"
+    affiliation: "Universiti Brunei Darussalam, Brunei Darussalam"
+preferred-citation:
+  type: article
+  title: "How Much Graph Context Does Relation Prediction Need? A Controlled Study of Endpoint Statistics and Bounded Local Context"
+  journal: "The Computer Journal"
+  year: 2026
+  authors:
+    - given-names: Furqan
+      family-names: Nasir
+      orcid: "https://orcid.org/0000-0002-5259-3448"
+    - given-names: Muhammad Atif
+      family-names: Saeed
+      orcid: "https://orcid.org/0000-0001-6358-3360"
+    - given-names: Saifullah
+      family-names: Jan
+      orcid: "https://orcid.org/0000-0001-9890-6991"
+    - given-names: Haji
+      family-names: Gul
+      orcid: "https://orcid.org/0000-0002-2227-6564"

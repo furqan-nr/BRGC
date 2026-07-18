@@ -1,0 +1,8 @@
+# Neural configurations (frozen_source/train.py)
+torch==2.4.0
+transformers==4.46.3
+tokenizers==0.20.3
+numpy>=1.24
+
+# The training-free analysis scripts (analysis/) need only numpy from the above;
+# the standard library covers the rest.
