@@ -1,0 +1,4 @@
+Dataset,Model,EmbDim,Epochs,RelPred_FilteredMRR,RelPred_Hits@1,Minutes
+CoDEx-M,TransE,256,100,0.7495,0.6811,6.1
+CoDEx-M,RotatE,256,100,0.8913,0.8442,9.1
+CoDEx-M,CompGCN,256,100,0.0888,0.0193,257.4

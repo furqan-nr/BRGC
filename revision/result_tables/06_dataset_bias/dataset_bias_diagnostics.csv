@@ -1,0 +1,4 @@
+Dataset,#relations,H(R|T) bits,H(R|H) bits,frac tails w/ single relation,avg tails per (head,rel),reverse-triple share,top-1 relation share
+CoDEx-S,42,0.238,1.886,0.744,3.14,0.154,0.31
+CoDEx-M,51,0.381,2.171,0.672,2.03,0.034,0.347
+FB15k-237,237,1.573,2.187,0.182,2.91,0.13,0.059

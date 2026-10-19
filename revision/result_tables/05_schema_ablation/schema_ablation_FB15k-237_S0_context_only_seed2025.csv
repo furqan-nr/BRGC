@@ -1,0 +1,2 @@
+Dataset,Variant,Seed,FilteredMRR,FilteredHits@1,MacroF1
+FB15k-237,S0_context_only,2025,0.9752039775683614,0.9578813642138181,0.8333508143203228

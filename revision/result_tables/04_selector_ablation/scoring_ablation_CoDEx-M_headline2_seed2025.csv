@@ -1,0 +1,3 @@
+Dataset,Variant,w_degree,w_rarity,w_redundancy,Seed,FilteredMRR,MacroF1
+CoDEx-M,full,1.0,0.35,0.15,2025,0.970580506472786,0.7592405104033139
+CoDEx-M,rarity_only,0.0,1.0,0.0,2025,0.9752053208701447,0.8355852919572618

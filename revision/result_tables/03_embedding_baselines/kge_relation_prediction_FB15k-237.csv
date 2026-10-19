@@ -1,0 +1,4 @@
+Dataset,Model,EmbDim,Epochs,RelPred_FilteredMRR,RelPred_Hits@1,Minutes
+FB15k-237,TransE,256,100,0.2427,0.1759,8.1
+FB15k-237,RotatE,256,100,0.9029,0.8706,12.1
+FB15k-237,CompGCN,256,100,0.0401,0.0094,185.7

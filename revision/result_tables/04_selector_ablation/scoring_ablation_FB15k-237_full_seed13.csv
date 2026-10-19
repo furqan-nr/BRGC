@@ -1,0 +1,2 @@
+Dataset,Variant,w_degree,w_rarity,w_redundancy,Seed,FilteredMRR,MacroF1
+FB15k-237,full,1.0,0.35,0.15,13,0.9759174717710979,0.8231871943358823

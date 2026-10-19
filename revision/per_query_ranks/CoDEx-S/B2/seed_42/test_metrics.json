@@ -1,0 +1,55 @@
+{
+  "epoch": 5,
+  "MR": 1.074398249452954,
+  "MRR": 0.9807103123701253,
+  "Hits@1": 0.9660831509846827,
+  "Hits@3": 0.9961706783369803,
+  "Hits@5": 0.9972647702407003,
+  "Hits@10": 0.9983588621444202,
+  "FilteredMR": 1.0678336980306347,
+  "FilteredMRR": 0.9828844056000172,
+  "FilteredHits@1": 0.9699124726477024,
+  "FilteredHits@3": 0.9967177242888403,
+  "FilteredHits@5": 0.9972647702407003,
+  "FilteredHits@10": 0.9983588621444202,
+  "Accuracy": 0.9660831509846827,
+  "MacroF1": 0.7182242637206158,
+  "WeightedF1": 0.9635433145197642,
+  "EvalSeconds": 5.5897752750006475,
+  "ExamplesPerSecond": 327.025669202737,
+  "AvgRequestedTokensBeforeTruncation": 72.0601750547046,
+  "AvgActualInputTokens": 72.0601750547046,
+  "MedianActualInputTokens": 71.0,
+  "P95ActualInputTokens": 88.0,
+  "TruncationRate": 0.0,
+  "AvgHeadContextItems": 2.771334792122538,
+  "AvgTailContextItems": 1.8140043763676148,
+  "AvgPairContextItems": 0.0,
+  "AvgPathItems": 0.0,
+  "RelationFrequencyBuckets": {
+    "rare": {
+      "count": 3,
+      "MRR": 0.07630906768837803,
+      "Hits@1": 0.0,
+      "Hits@3": 0.0,
+      "Hits@10": 0.3333333333333333
+    },
+    "medium": {
+      "count": 33,
+      "MRR": 0.8176898858717041,
+      "Hits@1": 0.7272727272727273,
+      "Hits@3": 0.9090909090909091,
+      "Hits@10": 0.9696969696969697
+    },
+    "frequent": {
+      "count": 1792,
+      "MRR": 0.9874441964285714,
+      "Hits@1": 0.9760044642857143,
+      "Hits@3": 1.0,
+      "Hits@10": 1.0
+    }
+  },
+  "MaxGpuMemoryMB": 2271.2529296875,
+  "SelectedCheckpointEpoch": 5,
+  "BestValidationFilteredMRR": 0.9870917715745302
+}

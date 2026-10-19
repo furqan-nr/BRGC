@@ -3,13 +3,14 @@ message: "If you use this software or its results, please cite both the software
 title: "BRGC: Bounded Role-Aware Graph Context for relation prediction"
 abstract: >-
   Code and training-free analysis scripts for the study "How Much Graph Context
-  Does Relation Prediction Need? A Controlled Study of Endpoint Statistics and
-  Bounded Local Context". Includes the frozen model implementation used for every
-  reported run and the parameter-free endpoint baselines, entropy diagnostics, and
-  bootstrap confidence-interval scripts.
+  Does Relation Prediction Need?". Includes the frozen model implementation used for
+  every reported run, the parameter-free endpoint baselines, entropy diagnostics and
+  bootstrap scripts, and (v1.1.0) the revision notebooks and results: paired
+  per-query significance tests, embedding baselines, multi-seed selector and schema
+  ablations, and dataset-bias diagnostics.
 type: software
-version: 1.0.0
-date-released: 2026-07-18
+version: 1.1.0
+date-released: 2026-10-19
 license: MIT
 repository-code: "https://github.com/furqan-nr/BRGC"
 keywords:
@@ -37,7 +38,7 @@ authors:
     affiliation: "Universiti Brunei Darussalam, Brunei Darussalam"
 preferred-citation:
   type: article
-  title: "How Much Graph Context Does Relation Prediction Need? A Controlled Study of Endpoint Statistics and Bounded Local Context"
+  title: "How Much Graph Context Does Relation Prediction Need?"
   journal: "The Computer Journal"
   year: 2026
   authors:

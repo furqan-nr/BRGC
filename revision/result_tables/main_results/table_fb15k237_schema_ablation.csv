@@ -1,0 +1,5 @@
+Dataset,Config,Description,Seed,MRR,Hits@1,Hits@3,Hits@10,FilteredMRR,FilteredHits@1,Accuracy,MacroF1,WeightedF1,ExamplesPerSecond
+FB15k-237,S0,context only (no schema),42,0.9709,0.9493,0.9932,0.999,0.9754,0.9581,0.9493,0.8173,0.9471,304.12
+FB15k-237,S1,+ schema tokens,42,0.9668,0.9438,0.9891,0.9981,0.9713,0.9525,0.9438,0.7977,0.9424,232.97
+FB15k-237,S2,+ schema prior,42,0.9713,0.9506,0.9925,0.9986,0.9756,0.9588,0.9506,0.8295,0.9485,302.88
+FB15k-237,S3,full schema (tokens+prior),42,0.9672,0.9442,0.9895,0.9981,0.9717,0.9529,0.9442,0.8066,0.9432,262.42

@@ -2,12 +2,10 @@
 
 Code and training-free analysis scripts for the paper:
 
-> **How Much Graph Context Does Relation Prediction Need? A Controlled Study of Endpoint Statistics and Bounded Local Context.**
+> **How Much Graph Context Does Relation Prediction Need?**
 > Furqan Nasir, Muhammad Atif Saeed, Saifullah Jan, Haji Gul. *The Computer Journal* (under review), 2026.
 
-<!-- After the first Zenodo release, paste the DOI badge here, e.g.:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
--->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21426241.svg)](https://doi.org/10.5281/zenodo.21426241)
 
 Relation prediction on the usual benchmarks scores very high. How much of that
 comes from the graph structure, and how much from the two entities alone? The
@@ -81,6 +79,10 @@ Every run drops a `run_config.json` next to its output. It holds the fully
 resolved configuration and a code fingerprint, so any number in the paper traces
 back to the exact setup that made it. The finer points live in
 [`frozen_source/IMPLEMENTATION_NOTES.md`](frozen_source/IMPLEMENTATION_NOTES.md).
+
+## Revision materials (v1.1.0)
+
+The `revision/` folder holds the notebooks, source and results added for the journal revision: paired per-query significance tests, endpoint-uncertainty grouping, TransE/RotatE/CompGCN baselines, three-seed selector and schema ablations, and dataset-bias diagnostics. See [`revision/README.md`](revision/README.md).
 
 ## Citing
 

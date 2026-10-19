@@ -1,0 +1,10 @@
+Dataset,Config,Description,FilteredMRR_mean,FilteredMRR_std,FilteredHits@1_mean,FilteredHits@1_std,MRR_mean,MacroF1_mean
+CoDEx-S,B2,adaptive role-aware one-hop context,0.982309,0.001042,0.969001,0.001579,0.980357,0.7088
+CoDEx-S,H_ONLY,adaptive head-side context only,0.980778,0.000686,0.967177,0.000547,0.978481,0.703107
+CoDEx-S,T_ONLY,adaptive tail-side context only,0.977502,0.000272,0.960248,0.000836,0.975027,0.650731
+CoDEx-M,B2,adaptive role-aware one-hop context,0.970602,0.00043,0.946627,0.000753,0.963599,0.784668
+CoDEx-M,H_ONLY,adaptive head-side context only,0.970354,0.000413,0.947467,0.000148,0.963438,0.791359
+CoDEx-M,T_ONLY,adaptive tail-side context only,0.961415,0.001499,0.931206,0.002614,0.954106,0.693054
+FB15k-237,B2,adaptive role-aware one-hop context,0.975143,0.000807,0.957963,0.001248,0.970622,0.826371
+FB15k-237,H_ONLY,adaptive head-side context only,0.970713,0.000467,0.951122,0.000325,0.966352,0.812837
+FB15k-237,T_ONLY,adaptive tail-side context only,0.969681,0.001363,0.950112,0.002224,0.965242,0.797585
