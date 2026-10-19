@@ -5,7 +5,7 @@ Code and training-free analysis scripts for the paper:
 > **How Much Graph Context Does Relation Prediction Need?**
 > Furqan Nasir, Muhammad Atif Saeed, Saifullah Jan, Haji Gul. *The Computer Journal* (under review), 2026.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21426241.svg)](https://doi.org/10.5281/zenodo.21426241)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23478806.svg)](https://doi.org/10.5281/zenodo.23478806)
 
 Relation prediction on the usual benchmarks scores very high. How much of that
 comes from the graph structure, and how much from the two entities alone? The
