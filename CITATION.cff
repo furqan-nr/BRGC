@@ -38,7 +38,7 @@ authors:
     affiliation: "Universiti Brunei Darussalam, Brunei Darussalam"
 preferred-citation:
   type: article
-  title: "How Much Graph Context Does Relation Prediction Need?"
+  title: "How Much Graph Context Does Knowledge Graph Relation Prediction Need?"
   journal: "The Computer Journal"
   year: 2026
   authors:

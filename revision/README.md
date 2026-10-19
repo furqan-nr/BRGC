@@ -1,7 +1,7 @@
 # Revision materials (v1.1.0)
 
 Code and results added for the major revision of COMPJ-2026-07-0954,
-"How Much Graph Context Does Relation Prediction Need?" (The Computer Journal).
+"How Much Graph Context Does Knowledge Graph Relation Prediction Need?" (The Computer Journal).
 
 | Folder | Contents |
 |---|---|

@@ -1,6 +1,6 @@
 {
   "title": "BRGC: Bounded Role-Aware Graph Context for relation prediction",
-  "description": "Code, analysis scripts and results accompanying the paper \"How Much Graph Context Does Relation Prediction Need?\". Contains the frozen model implementation used for every reported run, the parameter-free endpoint baselines, entropy diagnostics and bootstrap scripts, and (v1.1.0) the revision notebooks and results: paired per-query significance tests, endpoint-uncertainty grouping, TransE/RotatE/CompGCN baselines, multi-seed selector and schema ablations, and dataset-bias diagnostics.",
+  "description": "Code, analysis scripts and results accompanying the paper \"How Much Graph Context Does Knowledge Graph Relation Prediction Need?\". Contains the frozen model implementation used for every reported run, the parameter-free endpoint baselines, entropy diagnostics and bootstrap scripts, and (v1.1.0) the revision notebooks and results: paired per-query significance tests, endpoint-uncertainty grouping, TransE/RotatE/CompGCN baselines, multi-seed selector and schema ablations, and dataset-bias diagnostics.",
   "upload_type": "software",
   "version": "1.1.0",
   "language": "eng",
